@@ -1,7 +1,7 @@
 nyc-green-taxis-notebook_cache/
 nyc-green-taxis-notebook_files/
 data/
-data/uber-simulation/
+models/
 .ipynb_checkpoints/
 .DS_Store
 ._.DS_Store
